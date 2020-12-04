@@ -2,6 +2,14 @@ p {
   font-family: Lato;
 }
 
+.topBar {
+  background-color: #ff6600;
+  width: 85%;
+  height: 20px;
+  margin: auto;
+  margin-top: 15px;
+}
+
 /*
 Copyright Google LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
