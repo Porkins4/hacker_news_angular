@@ -1,5 +1,9 @@
-.post {
+.post span {
   color: black;
+}
+.contribution2ndLine {
+  font-size: 12px;
+  margin-left: 25px;
 }
 
 .webLink {
